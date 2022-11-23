@@ -1,0 +1,4 @@
+name: MockBukkitTestPlugin
+version: '${project.version}'
+main: de.cooperr.mockbukkittestplugin.MockBukkitTestPlugin
+api-version: 1.19
